@@ -52,10 +52,3 @@ public class Cards
         Console.WriteLine("The deck has been shuffled.");
     }
 }
-
-// Decks should hold cards in them for use and keep track of which cards are still in the deck and which cards have been drawn.
-// They should also hold a full deck of 52 standard playing cards and be able to reshuffle cards back into the deck and redistribute the cards in a random order.
-public class Decks
-{
-    //i have no idea where to start here
-}
