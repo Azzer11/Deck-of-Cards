@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\TestLibrary\Cards&amp;DecksClass.csproj" />
-  </ItemGroup>
-
 </Project>
