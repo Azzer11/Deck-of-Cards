@@ -1,0 +1,4 @@
+E:\Visual Studio repos\GitHubTest\TestLibrary\obj\Debug\net8.0\Cards&DecksClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio repos\GitHubTest\TestLibrary\obj\Debug\net8.0\Cards&DecksClass.AssemblyInfoInputs.cache
+E:\Visual Studio repos\GitHubTest\TestLibrary\obj\Debug\net8.0\Cards&DecksClass.AssemblyInfo.cs
+E:\Visual Studio repos\GitHubTest\TestLibrary\obj\Debug\net8.0\Cards&DecksClass.csproj.CoreCompileInputs.cache

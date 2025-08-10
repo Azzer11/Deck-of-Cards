@@ -1,0 +1,4 @@
+E:\Visual Studio repos\GitHubTest\CardGameTest\obj\Debug\net8.0\CardGameTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio repos\GitHubTest\CardGameTest\obj\Debug\net8.0\CardGameTest.AssemblyInfoInputs.cache
+E:\Visual Studio repos\GitHubTest\CardGameTest\obj\Debug\net8.0\CardGameTest.AssemblyInfo.cs
+E:\Visual Studio repos\GitHubTest\CardGameTest\obj\Debug\net8.0\CardGameTest.csproj.CoreCompileInputs.cache
