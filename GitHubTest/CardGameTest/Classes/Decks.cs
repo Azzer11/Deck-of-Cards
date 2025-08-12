@@ -16,6 +16,7 @@ public class Deck
     private List<PlayingCard> Cards = []; // start with no cards
     private void OpenANewPack()
     {
+        Console.WriteLine("You take the wrapper off a brand new pack... Hmm, fresh");
         var random = new Random();
         for (int suit = 0; suit < 4; suit++)
         {
