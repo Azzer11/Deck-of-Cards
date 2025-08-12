@@ -2,14 +2,14 @@
 // Each Card has 2 variables, a Rank and a Suit.
 // Each card has several possible actions, Draw, Discard and Play.
 // Each card is also stored in a deck but idk how to figure that out yet
-public class PlayingCards
+public class PlayingCard //Singular naming normally
 {
-    //TODO: Think about the class, is it A card, or a deck of cards?
     public string Rank { get; set; } = default!;
     public string Suit { get; set; }= default!;
     public string CardInfo => $"{Rank} of {Suit}";
 
-    // figure out how to get user input for these actions. Console.Readline() ? no idea how to get that working between project files.
+
+
     public void Play()
     {
         Console.WriteLine($"You Play the {CardInfo}");
