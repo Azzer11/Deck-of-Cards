@@ -16,3 +16,5 @@ deck.Draw();
 deck.Draw();
 deck.Draw();
 deck.Draw();
+var sneakyPeek = deck.Peek();
+Console.WriteLine($"Sneaky peek at the next card.. and its the {sneakyPeek.CardInfo}");

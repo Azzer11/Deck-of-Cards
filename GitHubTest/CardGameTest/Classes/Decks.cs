@@ -66,6 +66,14 @@ public class Deck
         Console.WriteLine("The deck has been shuffled.");
     }
 
+    public int Count() => Cards.Count;
+
+    public PlayingCard? Peek()
+    {
+        // return the next card, but don't draw it (don't remove)
+        return Cards.FirstOrDefault();
+    }
+
     public PlayingCard? Draw()
     {
         // get the first one
